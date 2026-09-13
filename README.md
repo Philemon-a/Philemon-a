@@ -5,149 +5,196 @@
 </p>
 
 <p align="center">
-  I build reliable APIs, data systems, authentication infrastructure, and backend products.
+  TypeScript • Python • PostgreSQL • Supabase • FastAPI
 </p>
 
 <p align="center">
-  <a href="mailto:pa4ativor@gmail.com">Email</a> •
+  I build backend systems, data infrastructure, authentication flows, and products around complex real-world workflows.
+</p>
+
+<p align="center">
+  <a href="mailto:pa4ativor@gmail.com">Email</a>
+  •
   <a href="https://www.linkedin.com/in/philemon-ativor-48319a2a1">LinkedIn</a>
+  •
+  <a href="https://github.com/Philemon-a">GitHub</a>
 </p>
 
 ---
 
-## 👨🏾‍💻 About Me
+## About
 
-I'm a backend-focused software engineer working primarily with **TypeScript, Python, and PostgreSQL**.
+I'm a backend-focused software engineer interested in building reliable systems behind real products.
 
-I enjoy building systems around APIs, authentication, databases, background processing, and real-world business workflows.
+My work centers around:
 
-- 📍 Based in New Jersey
-- ⚙️ Interested in backend, platform, database, and infrastructure engineering
-- 🔐 Especially interested in multi-tenant systems, authorization, data modeling, and reliability
+- Backend APIs and service architecture
+- PostgreSQL data modeling
+- Authentication and authorization
+- Multi-tenant systems
+- Background processing and job queues
+- Data pipelines and document processing
+- Infrastructure and deployment workflows
+
+I work primarily with **TypeScript, Python, and PostgreSQL**, and I enjoy turning complicated business processes into maintainable software.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Engineering Intern — Verustruct
 
-Working on backend and platform systems for a construction robotics product.
+Worked across backend, database, and product infrastructure for a construction robotics startup.
 
-- Designed and implemented PostgreSQL and Supabase data models
-- Built multi-tenant authentication and authorization using Row Level Security
-- Developed invitation, organization, pricing, ordering, and storage workflows
-- Built backend functionality with TypeScript, Python, Supabase Edge Functions, and FastAPI
-- Worked across backend, database, and frontend systems in a small engineering team
+- Designed PostgreSQL and Supabase data models for a multi-tenant application
+- Built organization-based authentication and authorization using PostgreSQL Row Level Security
+- Developed organization invitations, memberships, roles, storage permissions, and access-control workflows
+- Built server-side pricing and order workflows using Supabase Edge Functions
+- Worked on asynchronous backend processing using Python and FastAPI
+- Contributed to frontend product features using React, TypeScript, Zustand, and Vite
+- Helped build systems supporting blueprint processing, 3D model workflows, and construction operations
+
+**Stack:** `TypeScript` `Python` `PostgreSQL` `Supabase` `FastAPI` `React` `Docker`
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 ### Bidvera
 
 **Bid intelligence and workflow software for subcontractors.**
 
-Bidvera helps subcontractors find relevant construction opportunities, decide which are worth pursuing, and understand bid documents before spending time on estimating.
+Bidvera helps subcontractors move from finding an opportunity to understanding whether it is worth pursuing before investing significant estimator time.
 
-The platform analyzes uploaded bid documents and generates source-cited briefs covering:
+The platform processes bid documents and produces source-cited intelligence around:
 
-- Scope
+- Project scope
 - Deadlines
 - Required forms
 - Missing information
 - Clarification questions
+- Evidence from original bid documents
+- Bid tracking through submitted, won, lost, and declined states
 
-**Focus:** document processing, evidence-backed analysis, APIs, workflow systems, backend architecture
+**Engineering focus**
+
+`Python` `PostgreSQL` `Document Processing` `Background Jobs` `APIs` `Data Pipelines`
 
 ---
 
 ### Subscore
 
-**Explainable risk intelligence for subcontractor prequalification.**
+**Explainable subcontractor risk intelligence.**
 
-Subscore combines contractor data from multiple sources into a deterministic risk score with factor-level explanations, freshness information, and auditable reports.
+Subscore is designed to help general contractors evaluate subcontractors using deterministic, explainable risk scoring.
 
-**Focus:** data pipelines, normalization, scoring systems, APIs, explainability
+The system combines data from multiple sources, normalizes it, evaluates risk factors, and generates auditable reports showing why a score was assigned.
 
----
+**Engineering focus**
 
-## 🧩 Selected Projects
-
-### 🎓 UniMarketplace
-
-A college-verified marketplace for students to safely buy and sell items within their campus community.
-
-**Backend:** TypeScript • Node.js • Express • Authentication • REST APIs
-
-[View Backend →](https://github.com/Philemon-a/unimarketplace-backend)
-
-[View Full Project →](https://github.com/Philemon-a/unimarketplace)
+`Python` `PostgreSQL` `Data Pipelines` `Scoring Systems` `APIs` `Explainability`
 
 ---
 
-### 📚 ProjEdu
+## Selected Work
+
+### UniMarketplace
+
+A college-verified marketplace where students can safely buy and sell items within their campus community.
+
+I worked primarily on the backend, including authentication, API design, application data, and marketplace workflows.
+
+**Stack**
+
+`TypeScript` `Node.js` `Express` `REST APIs`
+
+[Backend Repository →](https://github.com/Philemon-a/unimarketplace-backend)
+
+[Full Project →](https://github.com/Philemon-a/unimarketplace)
+
+---
+
+### ProjEdu
 
 Backend platform for an educational application with authentication, role-based access control, profile management, and Supabase integration.
 
-**Backend:** Node.js • TypeScript • Express • Supabase • PostgreSQL • JWT
+**Stack**
 
-[View Project →](https://github.com/Philemon-a/ProjEdu)
+`TypeScript` `Node.js` `Express` `Supabase` `PostgreSQL` `JWT`
+
+[View Repository →](https://github.com/Philemon-a/ProjEdu)
 
 ---
 
-### 🔗 URL Shortener
+### URL Shortener
 
 Backend service for creating and managing shortened URLs.
 
-**Backend:** Node.js • Express • REST APIs
+**Stack**
 
-[View Project →](https://github.com/Philemon-a/url_shortner)
+`Node.js` `Express` `REST APIs`
+
+[View Repository →](https://github.com/Philemon-a/url_shortner)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Languages**
+### Languages
 
 `TypeScript` `Python` `SQL` `JavaScript`
 
-**Backend**
+### Backend
 
 `Node.js` `Express` `FastAPI` `Supabase` `REST APIs`
 
-**Data**
+### Databases & Data
 
 `PostgreSQL` `Supabase` `Redis`
 
-**Infrastructure**
+### Infrastructure
 
 `Docker` `AWS` `GitHub Actions`
 
-**Frontend**
+### Frontend
 
 `React` `Vite` `Zustand`
 
 ---
 
-## 📊 GitHub Stats
+## Engineering Interests
+
+I'm particularly interested in problems involving:
+
+- Backend and platform architecture
+- Database design and performance
+- Authentication and authorization
+- Reliable distributed workflows
+- Data ingestion and normalization
+- Developer infrastructure
+- Explainable systems that support business decisions
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Philemon's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Philemon's Top Languages" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Philemon-a&theme=github-compact&hide_border=true&area=true"
+    alt="Philemon Ativor's GitHub activity graph"
+  />
 </p>
 
 ---
 
-## 📫 Contact
+## Connect
 
-- Email: [pa4ativor@gmail.com](mailto:pa4ativor@gmail.com)
-- LinkedIn: [linkedin.com/in/philemon-ativor-48319a2a1](https://www.linkedin.com/in/philemon-ativor-48319a2a1)
-
----
+<p>
+  <a href="mailto:pa4ativor@gmail.com">Email</a>
+  •
+  <a href="https://www.linkedin.com/in/philemon-ativor-48319a2a1">LinkedIn</a>
+</p>
 
 <p align="center">
-  Backend Systems • Databases • APIs • Platform Engineering
+  <b>Backend Systems • Databases • APIs • Platform Engineering</b>
 </p>
