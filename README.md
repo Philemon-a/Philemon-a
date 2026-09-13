@@ -1,129 +1,153 @@
-<h1 align="center">Hi 👋, I'm Philemon Ativor</h1>
-
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">Philemon Ativor</h1>
 
 <p align="center">
-  Passionate backend engineer focused on building scalable, efficient, and reliable software solutions.
+  <b>Software Engineer • Backend & Platform</b>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🌍 I'm based in **Caldwell, NJ**
-- ✉️ Reach me at **[pa4ativor@gmail.com](mailto:pa4ativor@gmail.com)**
-- 🧠 I'm currently learning more about **SQL Databases**
-- 🤝 I'm open to collaborating on **projects**
-- ⚡ I'm constantly working to become a better programmer than I was yesterday
-
----
-
-### 🛠️ Skills
-
-<p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" />
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="Express" />
-</a>
-
-<a href="https://graphql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" height="40" alt="GraphQL" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS" />
-</a>
-
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Philemon-a" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/philemon-ativor-48319a2a1" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />
-</a>
-
-</p>
-
----
-
-### 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Philemon-a&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=0891b2&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"
-    alt="Philemon's GitHub Activity Graph"
-  />
+  I build reliable APIs, data systems, authentication infrastructure, and backend products.
+</p>
+
+<p align="center">
+  <a href="mailto:pa4ativor@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/philemon-ativor-48319a2a1">LinkedIn</a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 👨🏾‍💻 About Me
 
-#### 🛒 UniMarketplace
-A marketplace application with a dedicated backend API.
+I'm a backend-focused software engineer working primarily with **TypeScript, Python, and PostgreSQL**.
 
-[View Backend →](https://github.com/Philemon-a/unimarketplace-backend)  
+I enjoy building systems around APIs, authentication, databases, background processing, and real-world business workflows.
+
+- 📍 Based in New Jersey
+- ⚙️ Interested in backend, platform, database, and infrastructure engineering
+- 🔐 Especially interested in multi-tenant systems, authorization, data modeling, and reliability
+
+---
+
+## 💼 Experience
+
+### Software Engineering Intern — Verustruct
+
+Working on backend and platform systems for a construction robotics product.
+
+- Designed and implemented PostgreSQL and Supabase data models
+- Built multi-tenant authentication and authorization using Row Level Security
+- Developed invitation, organization, pricing, ordering, and storage workflows
+- Built backend functionality with TypeScript, Python, Supabase Edge Functions, and FastAPI
+- Worked across backend, database, and frontend systems in a small engineering team
+
+---
+
+## 🚀 Currently Building
+
+### Bidvera
+
+**Bid intelligence and workflow software for subcontractors.**
+
+Bidvera helps subcontractors find relevant construction opportunities, decide which are worth pursuing, and understand bid documents before spending time on estimating.
+
+The platform analyzes uploaded bid documents and generates source-cited briefs covering:
+
+- Scope
+- Deadlines
+- Required forms
+- Missing information
+- Clarification questions
+
+**Focus:** document processing, evidence-backed analysis, APIs, workflow systems, backend architecture
+
+---
+
+### Subscore
+
+**Explainable risk intelligence for subcontractor prequalification.**
+
+Subscore combines contractor data from multiple sources into a deterministic risk score with factor-level explanations, freshness information, and auditable reports.
+
+**Focus:** data pipelines, normalization, scoring systems, APIs, explainability
+
+---
+
+## 🧩 Selected Projects
+
+### 🎓 UniMarketplace
+
+A college-verified marketplace for students to safely buy and sell items within their campus community.
+
+**Backend:** TypeScript • Node.js • Express • Authentication • REST APIs
+
+[View Backend →](https://github.com/Philemon-a/unimarketplace-backend)
+
 [View Full Project →](https://github.com/Philemon-a/unimarketplace)
 
-#### 🚀 NASA Mission Control
-A Node.js project inspired by NASA mission-control systems.
+---
 
-[View Project →](https://github.com/Philemon-a/Nasa_mission_control)
+### 📚 ProjEdu
 
-#### ✂️ URL Shortener
-A backend-focused URL shortening application.
+Backend platform for an educational application with authentication, role-based access control, profile management, and Supabase integration.
+
+**Backend:** Node.js • TypeScript • Express • Supabase • PostgreSQL • JWT
+
+[View Project →](https://github.com/Philemon-a/ProjEdu)
+
+---
+
+### 🔗 URL Shortener
+
+Backend service for creating and managing shortened URLs.
+
+**Backend:** Node.js • Express • REST APIs
 
 [View Project →](https://github.com/Philemon-a/url_shortner)
 
-#### 🎨 InspiroDraw
-One of my recent software projects.
+---
 
-[View Project →](https://github.com/Philemon-a/inspirodraw)
+## 🛠 Tech Stack
+
+**Languages**
+
+`TypeScript` `Python` `SQL` `JavaScript`
+
+**Backend**
+
+`Node.js` `Express` `FastAPI` `Supabase` `REST APIs`
+
+**Data**
+
+`PostgreSQL` `Supabase` `Redis`
+
+**Infrastructure**
+
+`Docker` `AWS` `GitHub Actions`
+
+**Frontend**
+
+`React` `Vite` `Zustand`
 
 ---
 
-### 💻 Technologies
+## 📊 GitHub Stats
 
-`JavaScript` • `Node.js` • `Express.js` • `Python` • `MongoDB` • `PostgreSQL` • `MySQL` • `GraphQL` • `Firebase` • `AWS`
+<p align="center">
+  <img src="./profile/stats.svg" alt="Philemon's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Philemon's Top Languages" />
+</p>
+
+---
+
+## 📫 Contact
+
+- Email: [pa4ativor@gmail.com](mailto:pa4ativor@gmail.com)
+- LinkedIn: [linkedin.com/in/philemon-ativor-48319a2a1](https://www.linkedin.com/in/philemon-ativor-48319a2a1)
 
 ---
 
 <p align="center">
-  <b>Always learning. Always building. 🚀</b>
+  Backend Systems • Databases • APIs • Platform Engineering
 </p>
